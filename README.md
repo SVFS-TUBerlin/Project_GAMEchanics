@@ -3,7 +3,7 @@ GAMEchanics: The Escape Room is centered around mechanics. With this repository,
 
 Physical Escape Room: The Escape Room consists of a physical space with multiple puzzles. There will be a list of materials, instructions for setting up the room, and detailed guidance for the different puzzles.
 
-Online Escape Game: The online game can be found at [itch.io](https://gamechanics.itch.io/gamechanics-escaperoom). If the game needs to be customized, the code is provided [here](linkGitHub).
+Online Escape Game: The online game can be found at [itch.io](https://gamechanics.itch.io/gamechanics-escaperoom). If the game needs to be customized, the Godot Files are provided [here](https://github.com/SVFS-TUBerlin/Project_GAMEchanics/tree/main/virtueller_Escape_Room_Godotcode).
 
 Some of the 3D models for the Escaperoom are based on 3D models from individual Thingiverse users:
 * The file [1_rechte_Hand.stl](SVFS-TUBerlin/GAMEchanics-Escape-Room/blob/main/STLs_Station_1/1_rechte_Hand.stl) is based on [Right Hand Rule Teaching Tool](https://www.thingiverse.com/thing:6045083) by thingiverse user [Khaos47](https://www.thingiverse.com/Khaos47)
