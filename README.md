@@ -1,5 +1,5 @@
 # GAMEchanics-Escape-Room
-GAMEchanics: The Escape Room is centered around mechanics. With this repository, the Escape Room can be recreated. We provide a [detailed guide for setting up the room and the various puzzles (in german)](https://github.com/SVFS-TUBerlin/Project_GAMEchanics/blob/main/Spielanleitung_Escape_Room.pdf).
+GAMEchanics: The Escape Room is centered around mechanics. With this repository, the Escape Room can be recreated. We provide a [detailed guide for setting up the room and the various puzzles (in german)](https://github.com/SVFS-TUBerlin/Project_GAMEchanics/blob/main/Spieleanleitung_Escape_Room_LoRes.pdf).
 
 Physical Escape Room: The Escape Room consists of a physical space with multiple puzzles. There will be a list of materials, instructions for setting up the room, and detailed guidance for the different puzzles.
 
