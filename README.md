@@ -9,19 +9,21 @@ Some of the 3D models for the Escaperoom are based on 3D models from individual 
 * The file [1_rechte_Hand.stl](SVFS-TUBerlin/GAMEchanics-Escape-Room/blob/main/STLs_Station_1/1_rechte_Hand.stl) is based on [Right Hand Rule Teaching Tool](https://www.thingiverse.com/thing:6045083) by thingiverse user [Khaos47](https://www.thingiverse.com/Khaos47)
 * All files from [STLs_Station_5](https://github.com/SVFS-TUBerlin/GAMEchanics-Escape-Room/tree/main/STLs_Station_5) are inspired by the 3D Model [Column Buckling (Euler Buckling)](https://www.thingiverse.com/thing:3804697) by thingiverse user [dhp73](https://www.thingiverse.com/dhp73)
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
-Authors: Christina Völlmecke and Antonia Dönitz 
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/  
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png  
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
-You may share the content provided mentioning the licence CC BY 4.0 and the authors.
+**Authors:** Christina Völlmecke and Antonia Dönitz
 
+You may share the content provided mentioning the licence **CC BY-NC 4.0** and the authors.  
+**Commercial use is not permitted.**
 
